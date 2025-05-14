@@ -1,0 +1,18 @@
+body {
+  text-align: center;
+  font-family: sans-serif;
+  background: #e0ffe0;
+}
+
+canvas {
+  border: 2px solid #444;
+  background: #fff;
+  margin-top: 10px;
+}
+
+#gameOverMsg {
+  margin-top: 15px;
+  font-size: 1.2rem;
+  color: red;
+  display: none;
+}
